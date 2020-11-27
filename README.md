@@ -18,5 +18,5 @@ A mobile application which allows users to document their life stories &amp; mem
 <li>Flutter</li>
 <li>Dart</li>
 <li>Java</li>
-<li>Hive</li>
+<li>Firebase</li>
 </ul>
