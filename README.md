@@ -5,11 +5,13 @@ A mobile application which allows users to document their life stories &amp; mem
 
 ## Key Features
 <ul>
+<li>Create an account and/or log in to your account</li>
 <li>Write and save stories to a specific date</li>
-<li>Attach pictures/videos to a story, which would be stored locally on the device</li>
+<li>Attach pictures/videos to a story, which would be stored on the cloud</li>
 <li>Label each day with a mood (Happy, Sad, Angry, etc.)</li>
 <li>Each day has a Title, max 30 characters</li>
 <li>Share a Story with someone by clicking the send e-mail button</li>
+<li>Access your account by logging into any iOS or Android device</li>
 <li>Show Story streak (Number of consecutive days with a Story)</li>
 </ul>
 
