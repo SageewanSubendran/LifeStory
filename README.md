@@ -45,5 +45,5 @@ A mobile application which allows users to document their life stories &amp; mem
 ### Story Created
 <img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/storycreated.png" width="300">  
 
-### Note:
+## Note:
 Thanks for checking out the repository! The app will be available on Google's Play Store, and depending on interest, the iOS App Store.
