@@ -4,7 +4,7 @@
 </p>
 
 ## Description
-A mobile application which allows users to document their life stories &amp; memories within a calendar, each and everyday. Users are able to utilize Life Story as a digital journal with unlimited pages, where each story is neatly categorized in a calender.
+A cross-platform mobile application which allows users to document their life stories &amp; memories within a calendar, each and everyday. Users are able to utilize Life Story as a digital journal with unlimited pages, where each story is neatly categorized in a calender.
 
 ## Key Features
 <ul>
