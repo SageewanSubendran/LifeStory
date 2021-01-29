@@ -25,3 +25,7 @@ A mobile application which allows users to document their life stories &amp; mem
 <li>Java</li>
 <li>Firebase</li>
 </ul>
+
+## App Preview
+### Login
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/AppLogo.png" width="100">
