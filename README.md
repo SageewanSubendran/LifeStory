@@ -27,5 +27,23 @@ A mobile application which allows users to document their life stories &amp; mem
 </ul>
 
 ## App Preview
-### Login
-<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/AppLogo.png" width="100">
+### Sign Up and Login
+<p>
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/signup.png" width="300">     
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/login.png" width="300">
+</p>
+
+### Homescreen
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/homescreen.png" width="300">  
+
+### Add Story
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/storycreation.png" width="300">  
+
+### Mood Selection
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/moodselection.png" width="300">  
+
+### Story Created
+<img src="https://github.com/SageewanSubendran/LifeStory/blob/main/assets/preview/storycreated.png" width="300">  
+
+### Note:
+Thanks for checking out the repository! The app will be available on Google's Play Store, and depending on interest, the iOS App Store.
